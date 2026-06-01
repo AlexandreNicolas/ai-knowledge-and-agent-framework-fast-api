@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Create a Python function that extracts the AWS region from an S3 bucket ARN (e.g., 'arn:aws:s3:::my-bucket-us-west-2'). The function should return the region or None if not found in the ARN."
+  },
+  {
+    "task": "Generate a JSON CloudFormation template snippet that defines an IAM role with a trust relationship allowing the EC2 service to assume it."
+  },
+  {
+    "task": "Write a regular expression pattern that matches valid AWS access key IDs, which always start with 'AKIA' and are followed by 16 alphanumeric characters."
+  }
+]
